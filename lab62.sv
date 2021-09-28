@@ -180,33 +180,74 @@ vga_controller vgaController (.Clk(MAX10_CLK1_50),
 );*/
 //intermediate logic
 logic fell;
-logic [2:0] random;
+logic [2:0] shape;
 logic [1:0] rotation;
-logic [9:0] CurrBlock1X, CurrBlock1Y;
-logic [9:0] CurrBlock2X, CurrBlock2Y;
-logic [9:0] CurrBlock3X, CurrBlock3Y;
-logic [9:0] CurrBlock4X, CurrBlock4Y;
+//logic [9:0] CurrBlock1X, CurrBlock1Y;
+//logic [9:0] CurrBlock2X, CurrBlock2Y;
+//logic [9:0] CurrBlock3X, CurrBlock3Y;
+//logic [9:0] CurrBlock4X, CurrBlock4Y;
+logic [9:0] currBlocks [19:0];
+logic [9:0] fallenBlocks [19:0];
+logic [9:0] lineBroken [19:0];
+logic lineBreakMode, lineBreak;
+logic gameOver, gameOverMode;
+logic Spawn, startGame;
+logic [5:0] Xpos, Ypos;
+logic [9:0] difficulty;
 
-CurrBlock current_block (.Reset(reset_h),
-							.frame_clk(VGA_VS),
-							.keycode(keycode),
-							.random(random),
-							.rotation(rotation),
+lineBreak lineBreaker(.clk(MAX10_CLK1_50),
+							 .lineBreakMode(lineBreakMode),
+							 .fallenBlocks(fallenBlocks),
+							 .reset(Reset_h),
+							 .lineBroken(lineBroken),
+							 .difficulty(difficulty));
+
+control stateMachine(.reset(Reset_h),
+							.clk(VGA_VS),
+							.gameOver(gameOver),
+							.lineBreak(lineBreak),
 							.fell(fell),
-							.BlockS(ballsizesig),
-							.*);
+							.startGame(startGame),
+							.lineBreakMode(lineBreakMode),
+							.gameOverMode(gameOverMode),
+							.spawnBlock(Spawn));
+
+fallenpieces fallen_blocks (.reset(Reset_h),
+									.fallen(fell),
+									.lineBroken(lineBroken),
+									.clk(VGA_VS),
+									.lineBreak(lineBreakMode),
+									.currBlocks(currBlocks),
+									.fallenBlocks(fallenBlocks)
+									);
+
+CurrBlock current_block (.Reset(Reset_h),
+							.frame_clk(VGA_VS),
+							.clk(MAX10_CLK1_50),
+							.keycode(keycode),
+							//.random(random),
+							.fell(fell),
+							.shape(shape),
+							.currBlocks(currBlocks),
+							.fallenBlocks(fallenBlocks),
+							.startGame(startGame),
+							.lineBreak(lineBreak),
+							.Xpos(Xpos),
+							.Ypos(Ypos),
+							.difficulty(difficulty)
+							//fill this in
+							);
+	
 		
-color_mapper colorMapper (.CBlock1X(CurrBlock1X),
-								  .CBlock1Y(CurrBlock1Y),
-								  .CBlock2X(CurrBlock2X),
-								  .CBlock2Y(CurrBlock2Y),
-								  .CBlock3X(CurrBlock3X),
-								  .CBlock3Y(CurrBlock3Y),
-								  .CBlock4X(CurrBlock4X),
-								  .CBlock4Y(CurrBlock4Y),
+color_mapper colorMapper (.currBlocks(currBlocks),
+								  .fallenBlocks(fallenBlocks),
+								  .difficulty(difficulty),
+								  .Xpos(Xpos),
+								  .Ypos(Ypos),
+								  .shape(shape),
 								  .DrawX(drawxsig),
 								  .DrawY(drawysig),
-								  .Block_size(ballsizesig),
+								  //.Block_size(ballsizesig),
 								  .Red(Red),
 								  .Green(Green),
 								  .Blue(Blue)

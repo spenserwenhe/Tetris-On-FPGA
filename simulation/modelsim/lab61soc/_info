@@ -1,0 +1,1839 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/simulation/modelsim
+valtera_avalon_sc_fifo
+Z1 !s110 1620719595
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+I1K<aUBEcLFhZSmQR]g;D:0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1619176588
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_avalon_sc_fifo.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_avalon_sc_fifo.v
+Z4 L0 21
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1620719595.000000
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z7 o-vlog01compat -work lab61soc
+Z8 !s92 -vlog01compat -work lab61soc +incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules
+Z9 tCvgOpt 0
+valtera_avalon_st_clock_crosser
+Z10 !s110 1620719599
+!i10b 1
+!s100 YbU`iK^TYJ_9Hz`CZekjQ3
+IkMVV[hRYgk652hMlR<M_l3
+R2
+R0
+Z11 w1619176589
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_avalon_st_clock_crosser.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_avalon_st_clock_crosser.v
+L0 22
+R5
+r1
+!s85 0
+31
+Z12 !s108 1620719599.000000
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_st_handshake_clock_crosser
+R10
+!i10b 1
+!s100 3f<J9K;e[9FU@JKn0^PK?0
+IMiSBDobK8a<i9^_JSB7R;3
+R2
+R0
+R11
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+Z13 L0 24
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_arb_adder
+Z14 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R10
+!i10b 1
+!s100 1Jn[a;@5nZmTN?DFKQNzj2
+I@A2g=V5egY:T6n_CGOK?k1
+R2
+Z15 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R0
+R3
+Z16 8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_arbitrator.sv
+Z17 FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_arbitrator.sv
+L0 228
+R5
+r1
+!s85 0
+31
+R12
+Z18 !s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_arbitrator.sv|
+Z19 !s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_arbitrator.sv|
+!i113 1
+Z20 o-sv -work lab61soc
+Z21 !s92 -sv -work lab61soc +incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules
+R9
+valtera_merlin_arbitrator
+R14
+R10
+!i10b 1
+!s100 NQTehjm2fNQROUMUzShGa1
+I;Jm:j1`>z6DQCGGfS_YH=1
+R2
+R15
+S1
+R0
+R3
+R16
+R17
+L0 103
+R5
+r1
+!s85 0
+31
+R12
+R18
+R19
+!i113 1
+R20
+R21
+R9
+valtera_merlin_burst_adapter
+R14
+Z22 !s110 1620719600
+!i10b 1
+!s100 OCc70X^k:B?GW6i71n`L_3
+ID^CdN1f:lh:FNObT28F^B0
+R2
+!s105 altera_merlin_burst_adapter_sv_unit
+S1
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter.sv
+R4
+R5
+r1
+!s85 0
+31
+Z23 !s108 1620719600.000000
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter.sv|
+!i113 1
+R20
+R21
+R9
+valtera_merlin_burst_adapter_uncompressed_only
+R14
+R22
+!i10b 1
+!s100 STH]BdUM[JDMJZNJGXCd>0
+I5YZGLLif=VjV[K;V^jhMI1
+R2
+!s105 altera_merlin_burst_adapter_uncmpr_sv_unit
+S1
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv
+L0 39
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv|
+!i113 1
+R20
+R21
+R9
+valtera_merlin_burst_uncompressor
+R14
+R10
+!i10b 1
+!s100 f1?Rb<=9U?R9LJoHl;7>T3
+ImkXz?<LCJIzl<TdM@FKT?2
+R2
+!s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+L0 40
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!i113 1
+R20
+R21
+R9
+valtera_merlin_master_agent
+R14
+Z24 !s110 1620719601
+!i10b 1
+!s100 _CJm:YX=>U2LQKH;8=@cb0
+I]MnjSK]zh9S?E=RfDNQ3c1
+R2
+!s105 altera_merlin_master_agent_sv_unit
+S1
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_master_agent.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_master_agent.sv
+L0 28
+R5
+r1
+!s85 0
+31
+Z25 !s108 1620719601.000000
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_master_agent.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_master_agent.sv|
+!i113 1
+R20
+R21
+R9
+valtera_merlin_master_translator
+R14
+R24
+!i10b 1
+!s100 NdRk@]3fC2C@V7Rm;dQM31
+IR>0jBTHA9dZBBWK@hROlR0
+R2
+!s105 altera_merlin_master_translator_sv_unit
+S1
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_master_translator.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_master_translator.sv
+L0 32
+R5
+r1
+!s85 0
+31
+R25
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_master_translator.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_master_translator.sv|
+!i113 1
+R20
+R21
+R9
+valtera_merlin_slave_agent
+R14
+R24
+!i10b 1
+!s100 ePZN1d?B062J`OBb?blff3
+Id@MQk7<mD0AR<W^:oT6133
+R2
+!s105 altera_merlin_slave_agent_sv_unit
+S1
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_slave_agent.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_slave_agent.sv
+Z26 L0 34
+R5
+r1
+!s85 0
+31
+R25
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_slave_agent.sv|
+!i113 1
+R20
+R21
+R9
+valtera_merlin_slave_translator
+R14
+R24
+!i10b 1
+!s100 k`9[YAn_dLTkg;GE`mOb61
+IHhP?UFhBFXgh?AB>RiE2o0
+R2
+!s105 altera_merlin_slave_translator_sv_unit
+S1
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_slave_translator.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_slave_translator.sv
+L0 35
+R5
+r1
+!s85 0
+31
+R25
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_slave_translator.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_slave_translator.sv|
+!i113 1
+R20
+R21
+R9
+valtera_merlin_width_adapter
+R14
+R10
+!i10b 1
+!s100 QzdA5DP6CReOTH<9QzODa3
+IjM`ndTPgGiG7EOaj@88zY3
+R2
+!s105 altera_merlin_width_adapter_sv_unit
+S1
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_width_adapter.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_width_adapter.sv
+L0 25
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_width_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_merlin_width_adapter.sv|
+!i113 1
+R20
+R21
+R9
+valtera_reset_controller
+Z27 !s110 1620719594
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+IB]ddeA8gj?fNbnG;fin6k0
+R2
+R0
+Z28 w1619176574
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_reset_controller.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+Z29 !s108 1620719594.000000
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_reset_controller.v|
+!i113 1
+R7
+R8
+R9
+valtera_reset_synchronizer
+R27
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+I`1Q7Ym=dj14cPD<5lQ[3o3
+R2
+R0
+R28
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_reset_synchronizer.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_reset_synchronizer.v
+R13
+R5
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_reset_synchronizer.v|
+!i113 1
+R7
+R8
+R9
+valtera_std_synchronizer_nocut
+R10
+!i10b 1
+!s100 b8zV2<79GgkNg0GC<P[GJ2
+ITV7o2lmCzT2XK9a`k]kho0
+R2
+R0
+R11
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_std_synchronizer_nocut.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_std_synchronizer_nocut.v
+L0 44
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_std_synchronizer_nocut.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/altera_std_synchronizer_nocut.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc
+R27
+!i10b 1
+!s100 57]dUockJiELDS2`o5DfG1
+IP?Y[^Mle<BjaT6EG]`1hU2
+R2
+R0
+w1619176516
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/lab61soc.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/lab61soc.v
+L0 6
+R5
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/lab61soc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/lab61soc.v|
+!i113 1
+R7
+!s92 -vlog01compat -work lab61soc +incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis
+R9
+vlab61soc_hex_digits_pio
+Z30 !s110 1620719598
+!i10b 1
+!s100 kcJ6hJFm`IX[kA>M:3In72
+I<?j>KmGA2i_h3GW@0g]f_0
+R2
+R0
+w1619176519
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_hex_digits_pio.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_hex_digits_pio.v
+R4
+R5
+r1
+!s85 0
+31
+Z31 !s108 1620719598.000000
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_hex_digits_pio.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_hex_digits_pio.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_irq_mapper
+R14
+R30
+!i10b 1
+!s100 IeC[e]`Z?KaNhQd`Li>;k3
+Ij<jbl2CMN1CS@RhUlVag21
+R2
+!s105 lab61soc_irq_mapper_sv_unit
+S1
+R0
+Z32 w1619176573
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_irq_mapper.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_irq_mapper.sv
+L0 31
+R5
+r1
+!s85 0
+31
+R31
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_irq_mapper.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_irq_mapper.sv|
+!i113 1
+R20
+R21
+R9
+vlab61soc_jtag_uart_0
+R30
+!i10b 1
+!s100 ^do:<`ATC?5F2V[2X1mVQ3
+I=HDz?8VC^kH68]z:Y9KKa2
+R2
+R0
+Z33 w1619176520
+Z34 8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_jtag_uart_0.v
+Z35 FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_jtag_uart_0.v
+L0 331
+R5
+r1
+!s85 0
+31
+R31
+Z36 !s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_jtag_uart_0.v|
+Z37 !s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_jtag_uart_0.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_jtag_uart_0_scfifo_r
+R30
+!i10b 1
+!s100 K5_i;YB1X:]L`ed134oha1
+IMDQc1dJ;oCaN@ZcQ8C2G33
+R2
+R0
+R33
+R34
+R35
+L0 243
+R5
+r1
+!s85 0
+31
+R31
+R36
+R37
+!i113 1
+R7
+R8
+R9
+vlab61soc_jtag_uart_0_scfifo_w
+R30
+!i10b 1
+!s100 D6<PF6H<CON`GGFn`1jeg0
+IZU>9mA=KEnO]Kj`WY;UnG1
+R2
+R0
+R33
+R34
+R35
+L0 78
+R5
+r1
+!s85 0
+31
+R31
+R36
+R37
+!i113 1
+R7
+R8
+R9
+vlab61soc_jtag_uart_0_sim_scfifo_r
+R30
+!i10b 1
+!s100 l[3kYjT@J:l2?Y;jSYjIb3
+IR;J2_1e01?hfnnIO=W9Wm2
+R2
+R0
+R33
+R34
+R35
+L0 164
+R5
+r1
+!s85 0
+31
+R31
+R36
+R37
+!i113 1
+R7
+R8
+R9
+vlab61soc_jtag_uart_0_sim_scfifo_w
+R30
+!i10b 1
+!s100 _dka0KoDodeA3Ul=:CWj;2
+I86c890=8]_H9?RhaDMSh]0
+R2
+R0
+R33
+R34
+R35
+R4
+R5
+r1
+!s85 0
+31
+R31
+R36
+R37
+!i113 1
+R7
+R8
+R9
+vlab61soc_key
+R30
+!i10b 1
+!s100 b<d=^9H5VEd0B^S45S>b?3
+Ikcgjfc7jW44Uj:93ZH^=@3
+R2
+R0
+w1619176521
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_key.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_key.v
+R4
+R5
+r1
+!s85 0
+31
+R31
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_key.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_key.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_keycode
+R30
+!i10b 1
+!s100 ;OklQUeNJNdMH56d@X4T`3
+I9j5<C0M3FGNbQI8UGIJ<o1
+R2
+R0
+Z38 w1619176522
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_keycode.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_keycode.v
+R4
+R5
+r1
+!s85 0
+31
+R31
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_keycode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_keycode.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_leds_pio
+Z39 !s110 1620719597
+!i10b 1
+!s100 jWUPfQ[9ma:0m3aIKZodf2
+ITG8TN3DR>6A>8>J@cl7U?1
+R2
+R0
+R38
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_leds_pio.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_leds_pio.v
+R4
+R5
+r1
+!s85 0
+31
+Z40 !s108 1620719597.000000
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_leds_pio.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_leds_pio.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_mm_interconnect_0
+R1
+!i10b 1
+!s100 M1=FBWh0VdNh]oke8NhBa3
+IOX9faA8hcD1W;VQa_m5561
+R2
+R0
+R32
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_mm_interconnect_0_avalon_st_adapter
+R1
+!i10b 1
+!s100 DLS1i>GK<izEORo;h5nTQ0
+IfBA4kLC^Fnz9E06Ob]2T^2
+R2
+R0
+w1619176590
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_mm_interconnect_0_avalon_st_adapter_005
+R1
+!i10b 1
+!s100 dRZ6?DN:fLY:W7NjA:M_52
+I44CbDKHK>mPfmjGdQ>JzB3
+R2
+R0
+Z41 w1619176591
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0
+R14
+R30
+!i10b 1
+!s100 85jQSDUEA6kAMHcSlg1Gm3
+I56n[BX`imCoNTTK=abn8Y0
+R2
+!s105 lab61soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0_sv_unit
+S1
+R0
+R41
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv
+Z42 L0 66
+R5
+r1
+!s85 0
+31
+R31
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv|
+!i113 1
+R20
+R21
+R9
+vlab61soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0
+R14
+R30
+!i10b 1
+!s100 ?jXK[a7:WAIo24@2bUaCE3
+I19Eh5@^HHWa9Pkj;XHaN;3
+R2
+!s105 lab61soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0_sv_unit
+S1
+R0
+R41
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+R42
+R5
+r1
+!s85 0
+31
+R31
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!i113 1
+R20
+R21
+R9
+vlab61soc_mm_interconnect_0_cmd_demux
+R14
+R22
+!i10b 1
+!s100 6WTJN]?0kK6]<QglZben32
+I84F]dXS0dGoZ@>F8QB`5z0
+R2
+!s105 lab61soc_mm_interconnect_0_cmd_demux_sv_unit
+S1
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_demux.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_demux.sv
+Z43 L0 43
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_demux.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_demux.sv|
+!i113 1
+R20
+R21
+R9
+vlab61soc_mm_interconnect_0_cmd_mux
+R14
+R22
+!i10b 1
+!s100 BNLnkegSZUeP;N:DJ9C^42
+ImOfJ11M2`IdVFiAF?ICMh1
+R2
+!s105 lab61soc_mm_interconnect_0_cmd_mux_sv_unit
+S1
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_mux.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_mux.sv
+Z44 L0 51
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_mux.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_cmd_mux.sv|
+!i113 1
+R20
+R21
+R9
+vlab61soc_mm_interconnect_0_router
+R14
+R24
+!i10b 1
+!s100 2EY41E3CCj<V9_b7FjcO<0
+I=X>`41mAC89KlUQ9PEO?=0
+R2
+Z45 !s105 lab61soc_mm_interconnect_0_router_sv_unit
+S1
+R0
+R3
+Z46 8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router.sv
+Z47 FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router.sv
+Z48 L0 84
+R5
+r1
+!s85 0
+31
+R23
+Z49 !s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router.sv|
+Z50 !s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router.sv|
+!i113 1
+R20
+R21
+R9
+vlab61soc_mm_interconnect_0_router_002
+R14
+R22
+!i10b 1
+!s100 O_^>`lkbjG:@eVM^La[7g0
+IjRH@iDR=O_HzOI2@YFcTA2
+R2
+Z51 !s105 lab61soc_mm_interconnect_0_router_002_sv_unit
+S1
+R0
+R3
+Z52 8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_002.sv
+Z53 FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_002.sv
+R48
+R5
+r1
+!s85 0
+31
+R23
+Z54 !s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_002.sv|
+Z55 !s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_002.sv|
+!i113 1
+R20
+R21
+R9
+vlab61soc_mm_interconnect_0_router_002_default_decode
+R14
+R22
+!i10b 1
+!s100 Xd?0U<^7WYX:jEA0PAbZ=0
+ID>[4HVe_MP=i1<g_8`fFA3
+R2
+R51
+S1
+R0
+R3
+R52
+R53
+Z56 L0 45
+R5
+r1
+!s85 0
+31
+R23
+R54
+R55
+!i113 1
+R20
+R21
+R9
+vlab61soc_mm_interconnect_0_router_007
+R14
+R22
+!i10b 1
+!s100 XY@5e:kbg4JcSc80IbYm:2
+IPFbPOYM=?U0lgo2c3gGik3
+R2
+Z57 !s105 lab61soc_mm_interconnect_0_router_007_sv_unit
+S1
+R0
+R3
+Z58 8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_007.sv
+Z59 FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_007.sv
+R48
+R5
+r1
+!s85 0
+31
+R23
+Z60 !s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_007.sv|
+Z61 !s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_router_007.sv|
+!i113 1
+R20
+R21
+R9
+vlab61soc_mm_interconnect_0_router_007_default_decode
+R14
+R22
+!i10b 1
+!s100 Qm>1@`U;_=KCEk:W@e?zg1
+I3CB[TEzUgbo=8?^k7a<]H1
+R2
+R57
+S1
+R0
+R3
+R58
+R59
+R56
+R5
+r1
+!s85 0
+31
+R23
+R60
+R61
+!i113 1
+R20
+R21
+R9
+vlab61soc_mm_interconnect_0_router_default_decode
+R14
+R24
+!i10b 1
+!s100 2WD49e=Ba4:Bb:FlPGRTz1
+I9bH0j^Ubg[_I^G6GUCNjF1
+R2
+R45
+S1
+R0
+R3
+R46
+R47
+R56
+R5
+r1
+!s85 0
+31
+R23
+R49
+R50
+!i113 1
+R20
+R21
+R9
+vlab61soc_mm_interconnect_0_rsp_demux
+R14
+R22
+!i10b 1
+!s100 c[43hgz[FaKF<ni:3ZgOF3
+IzV?AYIhQIzd=930fj:Ynz0
+R2
+!s105 lab61soc_mm_interconnect_0_rsp_demux_sv_unit
+S1
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_demux.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_demux.sv
+R43
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_demux.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_demux.sv|
+!i113 1
+R20
+R21
+R9
+vlab61soc_mm_interconnect_0_rsp_mux
+R14
+R10
+!i10b 1
+!s100 SZQYh]HlTLn6SGjIB]gei1
+I]G@2iR5O6BZQ>bJTWVABX2
+R2
+!s105 lab61soc_mm_interconnect_0_rsp_mux_sv_unit
+S1
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_mux.sv
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_mux.sv
+R44
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_mux.sv|
+!s90 -reportprogress|300|-sv|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_mm_interconnect_0_rsp_mux.sv|
+!i113 1
+R20
+R21
+R9
+vlab61soc_nios2_gen2_0
+Z62 !s110 1620719596
+!i10b 1
+!s100 ^kO78;MDPe^0X8c0ZEJB<2
+Ibf6Xjmie6_IAl>c^Ji]0a0
+R2
+R0
+w1619176524
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+Z63 !s108 1620719596.000000
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu
+R39
+!i10b 1
+!s100 >e`SeIL3aFDW_i=B;_=@_0
+IlQmcVT:lYVYaZa=>6zP^a3
+R2
+R0
+R3
+Z64 8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu.v
+Z65 FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu.v
+L0 2834
+R5
+r1
+!s85 0
+31
+R63
+Z66 !s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu.v|
+Z67 !s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_debug_slave_sysclk
+R39
+!i10b 1
+!s100 [MC8^F^Q75B@i^aR8Z_MF2
+I>ebc<0lL4`0e_OzS@MaZW1
+R2
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_debug_slave_tck
+R39
+!i10b 1
+!s100 dYT[0V6a8_LjZjZU`kjQY2
+IhCJfd:]D]Afie^Zf0;hnU2
+R2
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_tck.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_tck.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_tck.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_debug_slave_wrapper
+R39
+!i10b 1
+!s100 ZU^k[DfQli_72cU3I<WGT0
+IC=3VJn<P<el14JJ8K;HMW0
+R2
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_avalon_reg
+R39
+!i10b 1
+!s100 AjFZ3EJ[6gk7CY_=eOnB=0
+IBD7e_X5hn:V86bNeER<Y83
+R2
+R0
+R3
+R64
+R65
+L0 2023
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci
+R39
+!i10b 1
+!s100 mQkDnU8JW0IbC`ISZcVkE0
+IBV4A1OdCR1XR[C>TIH53R1
+R2
+R0
+R3
+R64
+R65
+L0 2362
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_break
+R39
+!i10b 1
+!s100 nU;E>Xhi]^^T1Of@FH<BY3
+I>5<OWAz2aONO_^;H@GKA42
+R2
+R0
+R3
+R64
+R65
+L0 295
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_compute_input_tm_cnt
+R39
+!i10b 1
+!s100 ]6f>:S7M3kC[TD1dAC7Y21
+Im=CUfQjEXZ92Y<gRal5=n2
+R2
+R0
+R3
+R64
+R65
+L0 1265
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_dbrk
+R39
+!i10b 1
+!s100 >VB@a3Yb2:jMBTCV5`llG3
+I14E0?Gkc1gBP9gF]Rn`__3
+R2
+R0
+R3
+R64
+R65
+L0 795
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_debug
+R39
+!i10b 1
+!s100 TVQSM27i?=eB>>I:Bz40T0
+Io0Y@df2_m4?07EaTY[1:Y0
+R2
+R0
+R3
+R64
+R65
+L0 153
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_dtrace
+R39
+!i10b 1
+!s100 Q[Y>Da>811E6KGD0<NV830
+IP9CSIc`Be1OY<;N<nL=>K2
+R2
+R0
+R3
+R64
+R65
+L0 1183
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_fifo
+R39
+!i10b 1
+!s100 l1_4l<=aNKm^9GkUZ0fS`0
+I41mQFaCYE?o?B=DhIMS`73
+R2
+R0
+R3
+R64
+R65
+L0 1427
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_fifo_cnt_inc
+R39
+!i10b 1
+!s100 @<WS_lo^1SYdhCRTj0mXN1
+Idob7m4`T6?lC4fOV3MBEA1
+R2
+R0
+R3
+R64
+R65
+L0 1380
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_fifo_wrptr_inc
+R39
+!i10b 1
+!s100 <>kcU2LY?RFPjnA3LKRDo3
+IJ]4[S@WLn?01_e]aVb:^03
+R2
+R0
+R3
+R64
+R65
+L0 1337
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_im
+R39
+!i10b 1
+!s100 ;b:`]KzoK100PCSAoJFdQ1
+I;_`K0Wa=l@?G@YT_>:`R92
+R2
+R0
+R3
+R64
+R65
+L0 1936
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_itrace
+R39
+!i10b 1
+!s100 2jd>633Yl0PKK31U6KYLK3
+I52eEmg^bWcEQjDf[>U8QR3
+R2
+R0
+R3
+R64
+R65
+L0 982
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_pib
+R39
+!i10b 1
+!s100 973F>`Wd_;HOEdlc8iXAo3
+I<<NW8e:_NOf=DfTb[[0N]2
+R2
+R0
+R3
+R64
+R65
+L0 1913
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_td_mode
+R39
+!i10b 1
+!s100 aJldMiZQTIjNR[WYW>Q>F1
+ISDc^_j1PO`M^8b<T]6bWb0
+R2
+R0
+R3
+R64
+R65
+L0 1115
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_oci_xbrk
+R39
+!i10b 1
+!s100 Ui5cW<bER1>3DS?gf[0eb2
+I2[76U4GF`AagzJ8;>4kmS1
+R2
+R0
+R3
+R64
+R65
+L0 588
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_ocimem
+R39
+!i10b 1
+!s100 QUV?F5i7CS=95OjE5EYkW3
+IcOAeVjO3S?dd9>G53Qk<S2
+R2
+R0
+R3
+R64
+R65
+L0 2181
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_nios2_performance_monitors
+R39
+!i10b 1
+!s100 :FA>]J7OzW<>LQBO5;IY60
+I5YYl@;8IdU`bE35E5M0D62
+R2
+R0
+R3
+R64
+R65
+L0 2006
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_ociram_sp_ram_module
+R39
+!i10b 1
+!s100 iGcC:7jmJkGbH6BiejTGG1
+IlB=I2GF[dNQ=gP1PPmB1Z3
+R2
+R0
+R3
+R64
+R65
+L0 2116
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_register_bank_a_module
+R62
+!i10b 1
+!s100 4A?WmM`TAeCzUUAC?k9]=3
+Im[T2mo1z<dMea>8bRCe7Y3
+R2
+R0
+R3
+R64
+R65
+R4
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_register_bank_b_module
+R39
+!i10b 1
+!s100 j[_dWB7MR3JP;R4Nc2UEO3
+I?UzNdC_`:5a]maNGJMnmX1
+R2
+R0
+R3
+R64
+R65
+L0 87
+R5
+r1
+!s85 0
+31
+R63
+R66
+R67
+!i113 1
+R7
+R8
+R9
+vlab61soc_nios2_gen2_0_cpu_test_bench
+R39
+!i10b 1
+!s100 4?41`V8PJI[0;ERA9Q0MH1
+Iidhm6U2go9Qd4T207@?UD2
+R2
+R0
+R3
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_test_bench.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+R40
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_nios2_gen2_0_cpu_test_bench.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_onchip_memory2_0
+R62
+!i10b 1
+!s100 ^Pa5jiDDX=>1d]9OI8CbM1
+I17gWS@flf^MCoe:SQJE`50
+R2
+R0
+w1619176525
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_onchip_memory2_0.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_onchip_memory2_0.v
+R4
+R5
+r1
+!s85 0
+31
+R63
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_onchip_memory2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_onchip_memory2_0.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_sdram
+R62
+!i10b 1
+!s100 RGP=oTIMPh_1h>kO;UdnK0
+I6fZI5aHbikVJ38g<Q3iHT0
+R2
+R0
+Z68 w1619176526
+Z69 8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_sdram.v
+Z70 FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_sdram.v
+L0 159
+R5
+r1
+!s85 0
+31
+R63
+Z71 !s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_sdram.v|
+Z72 !s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_sdram.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_sdram_input_efifo_module
+R62
+!i10b 1
+!s100 HYRM`7MeMJ@DM_;eoA_j01
+I9KRUoUl^Sf2lhWQQUo99n3
+R2
+R0
+R68
+R69
+R70
+R4
+R5
+r1
+!s85 0
+31
+R63
+R71
+R72
+!i113 1
+R7
+R8
+R9
+vlab61soc_sdram_pll
+R62
+!i10b 1
+!s100 ^2W]3zDFKoX=Dnbz?G6d83
+I_f;zG07>8hDPH=RBhdff61
+R2
+R0
+Z73 w1619176531
+Z74 8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_sdram_pll.v
+Z75 FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_sdram_pll.v
+L0 217
+R5
+r1
+!s85 0
+31
+R63
+Z76 !s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_sdram_pll.v|
+Z77 !s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_sdram_pll.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_sdram_pll_altpll_vg92
+R62
+!i10b 1
+!s100 42cBi:40CKhN`FFH7QGjc1
+IQN@1c4`>M:RSQV]X>hkKH3
+R2
+R0
+R73
+R74
+R75
+L0 130
+R5
+r1
+!s85 0
+31
+R63
+R76
+R77
+!i113 1
+R7
+R8
+R9
+vlab61soc_sdram_pll_dffpipe_l2c
+R62
+!i10b 1
+!s100 9REIQ[^:KQ<^n[5:kKjU63
+I[l;gkL[:H<CaC=KmPCGd93
+R2
+R0
+R73
+R74
+R75
+L0 37
+R5
+r1
+!s85 0
+31
+R63
+R76
+R77
+!i113 1
+R7
+R8
+R9
+vlab61soc_sdram_pll_stdsync_sv6
+R62
+!i10b 1
+!s100 Haf`6k]WBhNCSAaoN81cY1
+I05h0UD=GEDzS9<F=JZYb`3
+R2
+R0
+R73
+R74
+R75
+L0 98
+R5
+r1
+!s85 0
+31
+R63
+R76
+R77
+!i113 1
+R7
+R8
+R9
+vlab61soc_spi_0
+R62
+!i10b 1
+!s100 mUaYdm6h4H5RonWTU@Zb13
+I>mAhc>U`UGg:n2S5FYb8z0
+R2
+R0
+Z78 w1619176532
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_spi_0.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_spi_0.v
+L0 41
+R5
+r1
+!s85 0
+31
+R63
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_spi_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_spi_0.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_sysid_qsys_0
+R62
+!i10b 1
+!s100 QV5mM>znZ?3ekKn^HVK>72
+I^_InQElW8LIjkF5zFHE8N0
+R2
+R0
+R78
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_sysid_qsys_0.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_sysid_qsys_0.v
+R26
+R5
+r1
+!s85 0
+31
+R63
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_sysid_qsys_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_sysid_qsys_0.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_timer_0
+R62
+!i10b 1
+!s100 Y<i9m5Q`fJjl@n_=dUGnR1
+IaV9bmC=dKlN@R_U^e9=Gm2
+R2
+R0
+w1619176533
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_timer_0.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_timer_0.v
+R4
+R5
+r1
+!s85 0
+31
+R63
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_timer_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_timer_0.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_usb_gpx
+R1
+!i10b 1
+!s100 4hIX]JiLDc^o6m2SX:`H`3
+IzH@?_<9;o2V86zhU<MjLB0
+R2
+R0
+Z79 w1619176534
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_usb_gpx.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_usb_gpx.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_usb_gpx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_usb_gpx.v|
+!i113 1
+R7
+R8
+R9
+vlab61soc_usb_rst
+R1
+!i10b 1
+!s100 HIAJbU=EHT1_mhonE5H2L0
+IN7_;W]1T]H^[e:PbMnhlh1
+R2
+R0
+R79
+8C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_usb_rst.v
+FC:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_usb_rst.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_usb_rst.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab61soc|+incdir+C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules|C:/Users/quasa/Desktop/ECE_385/Git_Repo/ece385-sp2021/Lab_6_2/lab61soc/synthesis/submodules/lab61soc_usb_rst.v|
+!i113 1
+R7
+R8
+R9
